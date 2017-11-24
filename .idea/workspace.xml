@@ -2,47 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1066d32e-5b48-40e6-90bb-0ce805e8c96f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/easy-responsive-tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/templatemo_misc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bx_loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/templatemo_portfolio01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/templatemo_portfolio02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/templatemo_portfolio03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/templatemo_portfolio04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/templatemo_portfolio05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/templatemo_portfolio06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/templatemo_portfolio07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/templatemo_portfolio08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portfolio/templatemo_portfolio09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/previous.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_about.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_arrow_gap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_contact1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_home1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_home2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_home3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_home4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_service1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_service2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_servicebg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_team.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_testi_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_testimonial1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_testimonial2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_testimonial3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/templatemo_vision.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/easyResponsiveTabs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.lightbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/templatemo_custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/Coder-Loft.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -61,11 +23,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="407">
               <caret line="325" column="56" lean-forward="false" selection-start-line="325" selection-start-column="56" selection-end-line="325" selection-end-column="56" />
               <folding>
-                <element signature="e#2175#2180#0" expanded="true" />
-                <element signature="e#5274#5279#0" expanded="true" />
+                <element signature="e#2144#2149#0" expanded="true" />
+                <element signature="e#5243#5248#0" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -177,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511503337444</updated>
-      <workItem from="1511503338896" duration="3649000" />
+      <workItem from="1511503338896" duration="3944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3649000" />
+    <option name="totallyTimeSpent" value="3944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -227,11 +189,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="407">
           <caret line="325" column="56" lean-forward="false" selection-start-line="325" selection-start-column="56" selection-end-line="325" selection-end-column="56" />
           <folding>
-            <element signature="e#2175#2180#0" expanded="true" />
-            <element signature="e#5274#5279#0" expanded="true" />
+            <element signature="e#2144#2149#0" expanded="true" />
+            <element signature="e#5243#5248#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
